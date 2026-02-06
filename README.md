@@ -1,8 +1,3 @@
-To solidna baza! Zawiera najważniejsze informacje, ale jako projekt inżynierski warto ubrać to w nieco bardziej profesjonalną strukturę Markdown. Dzięki temu recenzent od razu zobaczy, że podchodzisz do tematu systemowo.
-
-Oto propozycja, jak możesz to sformatować, aby wyglądało przejrzyście na GitHubie:
-
-Sugerowana treść pliku README.md (skopiuj i wklej):
 Markdown
 # Interactive Die - Firmware
 
